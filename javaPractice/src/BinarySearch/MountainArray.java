@@ -2,7 +2,8 @@ package BinarySearch;
 
 import java.util.Arrays;
 
-//FIND PEAK ELEMENT IN THE MOUNTAIN ARRAY
+//FIND PEAK ELEMENT IN THE MOUNTAIN ARRAY 
+//ascending then descending
 
 public class MountainArray {
 
